@@ -1,4 +1,4 @@
-// Java implementation of the approach
+
 class GFG{
 
 // Function to return the maximum
