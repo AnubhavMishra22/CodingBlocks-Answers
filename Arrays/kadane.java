@@ -1,3 +1,4 @@
+// This is a program of Kadane's algorithm
 import java.io.*;
 // Java program to print largest contiguous array sum
 import java.util.*;
@@ -27,3 +28,4 @@ class Kadane
 		return max_so_far;
 	}
 }
+// End of the program
