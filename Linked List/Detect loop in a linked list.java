@@ -1,4 +1,5 @@
 // Java program to detect loop in a linked list
+//code
 import java.util.*;
 
 public class LinkedList {
